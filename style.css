@@ -42,3 +42,36 @@ nav .search {
     float:right;
     margin-right: 25px;
 }
+article h3{
+    text-align: center;
+    padding:15px 0;
+    color:#272f54;
+    font-size: 20;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+article .new_list .news_item {
+    width:28%;
+    padding:1%;
+    float:left;
+    border: 1px solid #ccc ;
+    margin-right: 4%;
+}
+article .new_list .news_item h4{
+    font-size: 16px;
+    color: #ad3f00;
+
+
+} 
+article .new_list .news_item img{
+    margin: 10px auto;  
+}
+article .new_list .news_item .content{
+    font-size: 13px;
+    
+
+}
+#fix {
+    margin-right: 0;
+}
