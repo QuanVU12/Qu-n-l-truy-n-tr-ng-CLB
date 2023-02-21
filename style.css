@@ -7,11 +7,13 @@
 .container{
     width: 980px;
     margin: 0 auto;
-
+   
+ 
+    
 }
 header{
     height: 100px;
-    background: #cb7802; 
+    background: #dcd4cd; 
 }
 header img{
     padding-left: 30px;
